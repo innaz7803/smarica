@@ -1,0 +1,2 @@
+if (_bcvm.setTime) _bcvm.setTime(1590408772958);
+window.pageViewer.check(1,2);
